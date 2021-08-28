@@ -1,1 +1,2 @@
-React Expense Calculator app
+# React Expense Calculator app
+Using REACT
