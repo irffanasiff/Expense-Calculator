@@ -1,2 +1,5 @@
 # React Expense Calculator app
-Using REACT
+
+Expense Calculator app using reactjs
+<img stc="./Image.png" style="height= 20px">
+
