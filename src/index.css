@@ -1,15 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
 * {
   box-sizing: border-box;
 }
+h1, h2{
+  font-weight: 400;
+}
 
 html {
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 body {
   margin: 0;
-  background-color: #5095E4;
+  background-color: #ffffff;
 }
 

@@ -4,7 +4,7 @@
   align-items: center;
   padding: 0.5rem;
   margin: 1rem 0;
-  background-color: #EDF67D;
+  background-color: #8F659A;
 }
 
 .expense-item__description {
@@ -21,15 +21,12 @@
   font-size: 1rem;
   flex: 1;
   margin: 0 1rem;
-  color: #3D3B8E;
+  color: #ffffff;
 }
 
 .expense-item__price {
   font-size: 1rem;
-  font-weight: bold;
-  color: #3D3B8E;
-  background-color: #BCF4F5;
-  border: 1px solid #429ea5;
+  color: #ffffff;
   padding: 0.5rem;
   border-radius: 12px;
 }
@@ -43,7 +40,7 @@
   }
 
   .expense-item__description h2 {
-    font-size: 1.25rem;
+    font-size: 2rem;
   }
 
   .expense-item__price {

@@ -1,5 +1,4 @@
 .expenses-filter {
-  color: F40000;
   padding: 0 1rem;
 }
 
@@ -13,13 +12,14 @@
 }
 
 .expenses-filter label {
-  font-weight: bold;
   margin-bottom: 0.5rem;
 }
 
 .expenses-filter select {
   font: inherit;
-  padding: 0.5rem 3rem;
+  padding: 0.5rem 2rem;
+  background-color: #EF8767;
+  color: white;
   font-weight: bold;
-  border-radius: 6px;
+  border-radius: 14px;
 }

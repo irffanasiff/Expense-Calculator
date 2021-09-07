@@ -7,8 +7,8 @@
 }
 
 .new-expense__control label {
-  font-weight: bold;
-  color: #3D3B8E;
+  color: #ffffff;
+  font-size: calc(0.8rem, 1.3rem, 2rem);
   margin-bottom: 0.5rem;
   display: block;
 }
@@ -16,8 +16,8 @@
 .new-expense__control input {
   font: inherit;
   padding: 0.5rem;
-  border-radius: 6px;
-  border: 1px solid #3D3B8E;
+  border-radius: 22px;
+  border: 1px solid #ffffff;
   width: 20rem;
   max-width: 100%;
 }
