@@ -4,7 +4,7 @@ Expense Calculator app using reactjs
 
 ## Project Status 👨‍🔧 
 
-This project is currently in development. Users can filter expenses by year. Functionality for vieing graphical representation of expenses by month is in progress.
+Working on Adding more features
 
 <img src="./image.png" style="width: 300px"/><img src="./image1.png" style="width: 349px"/>
 
