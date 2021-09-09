@@ -17,23 +17,24 @@
 }
 
 .chart-bar__fill {
-  background-color: #EF8767;
+  background-color: #ef8767;
   width: 100%;
   transition: all 0.3s ease-out;
 }
 
 .chart-bar__label {
-  /* font-weight: bold; */
   color: white;
   font-size: 0.8rem;
   text-align: center;
-  margin-top: 8px
+  margin-top: 8px;
 }
 
 @media screen and (max-width: 425px) {
   .chart-bar__inner {
-    width: 90%;
+    width: 110%;
     border-radius: 8px;
   }
-  
+  .chart-bar__label {
+    font-size: 0.5rem;
+  }
 }
