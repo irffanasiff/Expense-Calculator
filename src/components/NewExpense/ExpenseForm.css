@@ -8,7 +8,7 @@
 
 .new-expense__control label {
   color: #ffffff;
-  font-size: calc(0.8rem, 1.3rem, 2rem);
+  font-size:1.3rem;
   margin-bottom: 0.5rem;
   display: block;
 }
